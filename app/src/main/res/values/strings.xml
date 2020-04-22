@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SameApp</string>
+    <string name="degreeCelcius">°C</string>
+    <string name="max_temp">Max. Temp:</string>
+    <string name="min_temp">Min. Temp:</string>
+    <string name="error_text">Some Error Occurred, Please try later</string>
+</resources>
